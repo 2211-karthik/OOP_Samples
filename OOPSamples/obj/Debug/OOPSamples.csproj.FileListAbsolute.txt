@@ -1,0 +1,6 @@
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\bin\Debug\OOPSamples.exe.config
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\bin\Debug\OOPSamples.exe
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\bin\Debug\OOPSamples.pdb
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\obj\Debug\OOPSamples.csprojResolveAssemblyReference.cache
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\obj\Debug\OOPSamples.exe
+C:\BACKUP\DeskTop\SL\My_Git_Repo\OOP_Samples\OOPSamples\obj\Debug\OOPSamples.pdb
